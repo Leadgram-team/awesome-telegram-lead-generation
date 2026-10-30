@@ -22,7 +22,6 @@ work that channel — ethically and within Telegram's terms of service.
 - [TGStat](https://tgstat.com) — Telegram analytics service and catalog of channels, chats, and bots.
 - [Telemetr](https://telemetr.io) — channel analytics, audience metrics, and ad-post tracking.
 - [Telega.io](https://telega.io) — catalog and analytics for advertising across Telegram channels.
-- [OpenSparta](https://opensparta.com/en) - SaaS workspace for Telegram conversation discovery, connected-account management, and proxy operations.
 
 ## Lead Generation & Prospecting
 
@@ -31,6 +30,8 @@ work that channel — ethically and within Telegram's terms of service.
   (semantic search rather than scraping), with lead scoring and CRM export. EN/RU/UK.
 - [LeadScan](https://leadscan.ru) — keyword-monitoring bot that alerts on new messages matching
   your terms across Telegram groups (RU).
+- [OpenSparta](https://opensparta.com/en) - Telegram marketing workspace with Lead Radar for buying requests in selected communities, ranked with original-message and match evidence, alongside connected-account and proxy management.
+
 
 ## Developer Libraries & APIs
 
