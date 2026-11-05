@@ -52,7 +52,7 @@ work that channel — ethically and within Telegram's terms of service.
 
 ## Guides & Learning
 
-- [Telegram Buyer Intent Triage: Four Signal Types to Keep Separate](https://gist.github.com/thinkpad2050/45afd7877deba124defe3136361178a0) — A worksheet for distinguishing explicit requests, specific problems, general interest, and incidental mentions, with a human review checklist and privacy cautions. Maintained by OpenSparta Team.
+- [Telegram Buyer Intent Triage: Four Signal Types to Keep Separate](https://gist.github.com/thinkpad2050/45afd7877deba124defe3136361178a0) - A worksheet for distinguishing explicit requests, specific problems, general interest, and incidental mentions, with a human review checklist and privacy cautions. Maintained by OpenSparta Team.
 
 - [Telegram for Business (official)](https://telegram.org/blog) — official announcements and feature guides.
 - [Telegram Bots: Introduction for Developers](https://core.telegram.org/bots) — official primer on
